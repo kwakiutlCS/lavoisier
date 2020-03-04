@@ -1,8 +1,0 @@
-
-
-	- sistema de transição entre puzzles
-	  a transição ocorre sem ir ao menu inicial
-
-	- sistema de ajuda
-	  os textos das ajudas que surgem como explicação de utilização foram alterados
-	  as ajudas aparecem independentemente do puzzle escolhido
